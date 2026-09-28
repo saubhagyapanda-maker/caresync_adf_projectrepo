@@ -50,7 +50,7 @@
 						"referenceName": "adls_Parquet_Sink",
 						"type": "DatasetReference",
 						"parameters": {
-							"container": "Landing",
+							"container": "landinglayer",
 							"folder": "test"
 						}
 					}
