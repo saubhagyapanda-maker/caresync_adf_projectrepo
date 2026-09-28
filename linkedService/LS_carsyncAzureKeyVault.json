@@ -1,0 +1,10 @@
+{
+	"name": "LS_carsyncAzureKeyVault",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kvcaresync.vault.azure.net/"
+		}
+	}
+}
