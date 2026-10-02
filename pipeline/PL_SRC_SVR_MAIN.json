@@ -46,7 +46,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"items": {
-						"value": "@activity('read source table list').output",
+						"value": "@activity('read source table list').output.value",
 						"type": "Expression"
 					},
 					"activities": [
